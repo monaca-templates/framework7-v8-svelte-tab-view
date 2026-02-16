@@ -6,7 +6,7 @@
   "repository": "",
   "license": "UNLICENSED",
   "engines": {
-    "node": "~18.16.0",
+    "node": ">=20.17",
     "npm": "~9.5.0"
   },
   "scripts": {
@@ -40,6 +40,7 @@
     "cpy-cli": "^4.2.0",
     "cross-env": "^7.0.3",
     "postcss-preset-env": "^8.4.2",
-    "vite": "^4.3.9"
+    "vite": "^4.3.9",
+    "cordova": "^13.0.0"
   }
 }
